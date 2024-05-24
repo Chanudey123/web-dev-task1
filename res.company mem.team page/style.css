@@ -1,0 +1,230 @@
+#div1{
+    height: 1cm;
+    width: 6.5cm;
+    color: black;
+    position: relative;
+    left: 17cm;
+    text-align: center;
+    background-color: fuchsia;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+#p{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+#h2{
+    text-align: center;
+    color: black;
+}
+#div2{
+    height: 0.7cm;
+    width: 8cm;
+    color: black;
+    background-color:fuchsia ;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    left: 16.5cm;
+    top: 0.5cm;
+}
+
+#div3{
+    height: 3.5cm;
+    width: 3.5cm;
+    position: relative;
+    left:18.5cm ;
+    top: 1.3cm;
+}
+#fname{
+     position: relative;
+     left: 18.9cm;
+     top: 0.8cm;
+}
+#ceo{
+    position: relative;
+    left: 19cm;
+    color: fuchsia;
+    font-style: italic;
+    top: 0.5cm;
+}
+#div4{
+    height: 3.5cm;
+    width: 3.5cm;
+    position: relative;
+    left: 12cm;
+}
+#vpname1{
+    position: relative;
+    left: 12.8cm;
+}
+#dev{
+    position: relative;
+    left: 11.3cm;
+    color:fuchsia ;
+    font-style: italic;
+}
+#div5{
+    height: 3.5cm;
+    width: 3.5cm;
+    position: relative;
+    left:18.5cm;
+    bottom: 6cm;
+}
+#vpname2{
+    position: relative;
+    left:19.3cm ;
+    bottom: 6cm;
+}
+#sale{
+    position: relative;
+    left:18.2cm ;
+    color: fuchsia;
+    font-style: italic;
+    bottom:6.2cm ;
+}
+#div6{
+        height: 3.5cm;
+        width: 3.5cm;
+        position: relative;
+        left:25cm;
+        bottom: 12cm;
+}
+#vpname3{
+    position: relative;
+    left: 25.9cm;
+    bottom: 12cm;
+}
+#finance{
+    position: relative;
+    left: 25cm;
+    bottom: 12.2cm;
+    color: fuchsia;
+    font-style: italic;
+}
+#div7{
+    height: 0.8cm;
+    width: 6.5cm;
+    color: black;
+    background-color:fuchsia ;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    left: 17cm;
+    bottom: 12cm;
+}
+#div8{
+    height: 3.5cm;
+    width: 3.5cm;
+    position: relative;
+    left:15cm;
+    bottom: 11cm;
+}
+#sename{
+   position: relative;
+   left: 15.2cm;
+   bottom: 11cm;
+}
+#selead{
+    position: relative;
+    left: 15.5cm;
+    bottom: 11.2cm;
+    color: fuchsia;
+    font-style: italic;
+}
+#div9{
+    height: 3.5cm;
+    width: 3.5cm;
+    position: relative;
+    left:22.5cm;
+    bottom: 17cm;
+}
+#sename1{
+    position: relative;
+    left: 22.7cm;
+    bottom: 17.1cm;
+}
+#se{
+    position: relative;
+    left: 22.7cm;
+    bottom: 17.3cm;
+    color:fuchsia ;
+    font-style: italic;
+}
+#div10{
+    height: 0.8cm;
+    width: 7cm;
+    color: black;
+    background-color:fuchsia ;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    left: 16.6cm;
+    bottom: 17cm;
+}
+#div11{
+    height: 3.5cm;
+    width: 3.5cm;
+    position: relative;
+    left: 12cm;
+    bottom: 16cm;
+}
+#sname1{
+    position: relative;
+    left: 12.2cm;
+    bottom: 16cm;
+}
+#tlead{
+    position: relative;
+    left: 12.7cm;
+    bottom: 16.2cm;
+    color:fuchsia ;
+    font-style: italic;
+}
+#div12{
+    height: 3.5cm;
+    width: 3.5cm;
+    position: relative;
+    left: 18.5cm;
+    bottom: 22cm;
+}
+#sname2{
+    position: relative;
+    left: 18.7cm;
+    bottom: 22.2cm;
+}
+#so{
+    position: relative;
+    left: 19cm;
+    bottom: 22.4cm;
+    color:fuchsia ;
+    font-style: italic;
+}
+#div13{
+    height: 3.5cm;
+    width: 3.5cm;
+    position: relative;
+    left: 25cm;
+    bottom: 28cm;
+}
+#sname3{
+    position: relative;
+    left: 25.2cm;
+    bottom:28.2cm ;
+}
+#mo{
+    position: relative;
+    left: 25.3cm;
+    bottom:28.4cm ;
+    color: fuchsia;
+    font-style: italic;
+}
